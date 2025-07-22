@@ -21,10 +21,12 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, Tailwind CSS, Framer Motion
-- **Backend**: FastAPI
-- **Model**: Ollama `phi` 
-- **Datasets**: NDMA, ISRO, Bhuvan geospatial data (CSV)
+| Layer      | Technology                                  |
+|------------|---------------------------------------------|
+| Frontend   | React, Tailwind CSS, Framer Motion          |
+| Backend    | FastAPI                                     |
+| AI Model   | Ollama (`phi`)                              |
+| Datasets   | NDMA, ISRO, Bhuvan geospatial data (CSV)    |
 
 ---
 
